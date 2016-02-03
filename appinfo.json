@@ -1,0 +1,22 @@
+{
+    "appKeys": {},
+    "capabilities": [
+        ""
+    ],
+    "companyName": "green.kelby@gmail.com",
+    "longName": "Disco",
+    "projectType": "native",
+    "resources": {
+        "media": []
+    },
+    "sdkVersion": "3",
+    "shortName": "Disco",
+    "targetPlatforms": [
+        "chalk"
+    ],
+    "uuid": "4d1e1392-d47b-41c3-b8e1-998914afc5ee",
+    "versionLabel": "1.01",
+    "watchapp": {
+        "watchface": true
+    }
+}
